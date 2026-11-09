@@ -193,4 +193,4 @@ This repository serves as the official landing page for Spartwell. The software 
 **Get the most recent version of Spartwell today!**
 
 ---
-**Last updated:** 2026-11-08 21:05:34 UTC
+**Last updated:** 2026-11-09 01:34:42 UTC
